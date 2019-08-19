@@ -1,0 +1,50 @@
+npx creacte-react-app resort
+npm install react-router-dom
+npm install react-icons
+remove app.css file
+index.js comment on index.css
+remove logo.svg
+index.html Resort title
+store redirects in public folder
+and copy app.css file into src folder
+and copy images and datajs in src folder 
+after create component folder in src
+create file Home, Rooms, SingleRooms, error 
+after index.js import BrowserRouter as Router
+after app.js make import route, switch
+creat component folder, creat file Navbar.js
+nav import in app.js
+after make hero.js
+after Banner.js
+after Service.js and Title.js
+after make src on contex.js
+after intery import in index.js
+after creat FeaturedRooms in Component
+after call FeaturedRooms in Home
+after import Roomcontext from contex.js in FeaturedRooms goto context api react and read docs
+after import data in context.js
+after adding data in FeaturedRooms.js
+after loading js in
+after room.js in component
+after Title import in Feature Rooms.js
+
+after go to Room.js import Link
+after go to Singleroom.js
+npm install --save styled-components
+after StyledHero.js in component
+after home.js
+after singleroom.js 
+after styledhero.js
+after singleroom.js
+after Roomscontainer.js
+after RoomList.js
+after Roomfilter.js
+after Room.js goto
+after go context.js
+after go Roomscontainer.js
+
+contentful website use
+create content beach resort
+
+go project folder right click and bash git
+after git init
